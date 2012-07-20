@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SharedTopo::VERSION
   s.authors     = ["David Elam"]
   s.email       = ["delam@nospam.com"]
-  s.homepage    = "/"
+  s.homepage    = "http://paynearme.com"
   s.summary     = "Summary of SharedTopo."
   s.description = "Description of SharedTopo."
 
