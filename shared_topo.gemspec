@@ -7,11 +7,11 @@ require "shared_topo/version"
 Gem::Specification.new do |s|
   s.name        = "shared_topo"
   s.version     = SharedTopo::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of SharedTopo."
-  s.description = "TODO: Description of SharedTopo."
+  s.authors     = ["David Elam"]
+  s.email       = ["delam@nospam.com"]
+  s.homepage    = "/"
+  s.summary     = "Summary of SharedTopo."
+  s.description = "Description of SharedTopo."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
