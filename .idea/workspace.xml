@@ -47,16 +47,25 @@
       <file leaf-file-name="order.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/shared_topo/order.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="53" selection-end="111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/shared_topo/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="36" selection-end="36" vertical-scroll-proportion="0.026711185">
+            <state line="1" column="18" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="direct_order.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/shared_topo/direct_order.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="27" selection-start="45" selection-end="45" vertical-scroll-proportion="0.026711185">
               <folding />
             </state>
           </provider>
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/shared_topo.gemspec" />
         <option value="$PROJECT_DIR$/app/models/shared_topo/order.rb" />
         <option value="$PROJECT_DIR$/lib/shared_topo/version.rb" />
+        <option value="$PROJECT_DIR$/app/models/shared_topo/direct_order.rb" />
       </list>
     </option>
   </component>
@@ -474,16 +484,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/shared_topo/order.rb">
+    <entry file="file://$PROJECT_DIR$/lib/shared_topo/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+        <state line="1" column="18" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/shared_topo/version.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/shared_topo/order.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="36" selection-end="36" vertical-scroll-proportion="0.026711185">
+        <state line="2" column="0" selection-start="53" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/shared_topo/direct_order.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="27" selection-start="45" selection-end="45" vertical-scroll-proportion="0.026711185">
           <folding />
         </state>
       </provider>
